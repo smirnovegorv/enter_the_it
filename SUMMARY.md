@@ -28,6 +28,7 @@
 
 * [Почему Java?](put-enterprise-java-razrabotchika/pochemu-java.md)
 * [Что я получу в конце пути?](put-enterprise-java-razrabotchika/chto-ya-poluchu-v-konce-puti.md)
+* [Полезные ресурсы по Java](put-enterprise-java-razrabotchika/poleznye-resursy-po-java.md)
 * [Выбор учебного проекта](put-enterprise-java-razrabotchika/vybor-uchebnogo-proekta.md)
 * [Основы языка и инструментов](put-enterprise-java-razrabotchika/osnovy-yazyka-i-instrumentov/README.md)
   * [Основы Java](put-enterprise-java-razrabotchika/osnovy-yazyka-i-instrumentov/osnovy-java.md)
