@@ -1,2 +1,0 @@
-# Сервисы и Dependency Injection
-
