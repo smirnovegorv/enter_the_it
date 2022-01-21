@@ -12,7 +12,7 @@
 * [В ИТ все так быстро меняется, что угнаться очень сложно](tipichnye-voprosy-i-mify-pro-it/v-it-vse-tak-bystro-menyaetsya-chto-ugnatsya-ochen-slozhno.md)
 * [А я смогу?](tipichnye-voprosy-i-mify-pro-it/a-ya-smogu.md)
 * [Смогу ли я сразу работать удаленно?](tipichnye-voprosy-i-mify-pro-it/smogu-li-ya-srazu-rabotat-udalenno.md)
-* [Что делать без профильного высшего образования?](tipichnye-voprosy-i-mify-pro-it/chto-delat-bez-profilnogo-vysshego-obrazovaniya.md)
+* [Нужно ли высшее образование?](tipichnye-voprosy-i-mify-pro-it/nuzhno-li-vysshee-obrazovanie.md)
 
 ## С чего начать
 
