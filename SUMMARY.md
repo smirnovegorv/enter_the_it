@@ -20,7 +20,10 @@
 * [Какой язык программирования учить первым?](s-chego-nachat/kakoi-yazyk-programmirovaniya-uchit-pervym.md)
 * [Какие технологии, кроме языка, стоит изучить?](s-chego-nachat/kakie-tekhnologii-krome-yazyka-stoit-izuchit.md)
 * [Что учить из классической Computer Science?](s-chego-nachat/chto-uchit-iz-klassicheskoi-computer-science.md)
-* [Где искать стажировки и первую работу?](s-chego-nachat/gde-iskat-stazhirovki-i-pervuyu-rabotu.md)
+* [Где искать стажировки и первую работу?](s-chego-nachat/gde-iskat-stazhirovki-i-pervuyu-rabotu/README.md)
+  * [Проектные и продуктовые компании](s-chego-nachat/gde-iskat-stazhirovki-i-pervuyu-rabotu/proektnye-i-produktovye-kompanii.md)
+  * [Стартапы](s-chego-nachat/gde-iskat-stazhirovki-i-pervuyu-rabotu/startapy.md)
+  * [Почему многие компании не любят начинающих разработчиков?](s-chego-nachat/gde-iskat-stazhirovki-i-pervuyu-rabotu/pochemu-mnogie-kompanii-ne-lyubyat-nachinayushikh-razrabotchikov.md)
 * [Пошаговый план входа в ИТ через самообучение](s-chego-nachat/poshagovyi-plan-vkhoda-v-it-cherez-samoobuchenie.md)
 * [Путь в ИТ через ВУЗ, если вы еще школьник](s-chego-nachat/put-v-it-cherez-vuz-esli-vy-eshe-shkolnik.md)
 
