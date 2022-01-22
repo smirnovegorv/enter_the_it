@@ -32,7 +32,7 @@ public static void main(String[] args) {
 ```
 class OurClass {
 
-public static Strin getData() { 
+public static String getData() { 
    // Когда библиотеке понадобятся от нас какие-то данные - она сама
    // нас спросит, вызвав нужные методы в нужном ей порядке
    // Нам нужно лишь определить эти методы, остальное библиотека берет на себя 
