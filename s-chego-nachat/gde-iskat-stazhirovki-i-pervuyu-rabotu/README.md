@@ -1,6 +1,6 @@
 # Где искать стажировки и первую работу?
 
-Итак, предположим, вы успешно составили список для самообучения, разобрались с основами программирования на выбранном ЯП, изучили необходимые технологии и фундаментальные основы CS. Настала пора искать и выбирать первое место для работы.
+Итак, предположим, вы успешно составили список для самообучения, разобрались с основами программирования на выбранном ЯП, изучили необходимые технологии и фундаментальные основы CS. И даже сделали несколько практически полезных учебных проектов. Настала пора искать и выбирать первое место для работы.
 
 В этой главе сделаем небольшой обзор того, какие бывают ИТ компании на рынке труда, какие есть возможности по трудоустройству и стажировкам.
 
@@ -8,11 +8,9 @@
 
 Помимо стандартного деления на "большие - маленькие", "иностранные - отечественные", ИТ компании можно поделить по еще нескольким критериям. И после первого опыта работы вам  будет полезно определиться с предпочитаемым типом компании.
 
-[proektnye-i-produktovye-kompanii.md](proektnye-i-produktovye-kompanii.md "mention")
+Про отличие в подходах к разработке в "проектных" и "продуктовых" компаниях можно прочитать в этой главе: [proektnye-i-produktovye-kompanii.md](proektnye-i-produktovye-kompanii.md "mention")
 
-Еще одна важная категория ИТ компаний - это стартапы. В этой главе вкратце описано, чем они отличаются и какие есть плюсы и минусы работы в них:
-
-[startapy.md](startapy.md "mention")
+Еще одна важная категория ИТ компаний - это стартапы. В этой главе вкратце описано, чем они отличаются и какие есть плюсы и минусы работы в них:[startapy.md](startapy.md "mention")
 
 #### Где искать первую работу
 
@@ -27,19 +25,19 @@
 Поэтому в первую очередь можно начать именно с крупных компаний и поискать у них на сайтах разделы о стажировках:
 
 * Яндекс  - [https://yandex.ru/yaintern/](https://yandex.ru/yaintern/). Компания в представлении не нуждается. Почитать про опыт людей можно, например, в [https://academy.yandex.ru/posts/kak-prokhodyat-stazhirovki-v-yandekse-opyt-raboty-v-ofise-i-onlayn](https://academy.yandex.ru/posts/kak-prokhodyat-stazhirovki-v-yandekse-opyt-raboty-v-ofise-i-onlayn) или [https://zen.yandex.ru/media/habr/iandeks-glazami-stajera-5dde39f916376423cc958b81](https://zen.yandex.ru/media/habr/iandeks-glazami-stajera-5dde39f916376423cc958b81)
-* EPAM - [https://www.epam-group.ru/careers/education](https://www.epam-group.ru/careers/education). Один из крупнейших международных проектных контор-аутсорсеров на территории СНГ. Про них тоже есть различные статьи на хабре и в иных медиа, как от лица тех, кто их проходил, так и от лица компании, например [https://habr.com/ru/company/epam\_systems/blog/336750/](https://habr.com/ru/company/epam\_systems/blog/336750/)
+* EPAM - [https://www.epam-group.ru/careers/education](https://www.epam-group.ru/careers/education). Одна из крупнейших международных проектных контор-аутсорсеров на территории СНГ. Про них тоже есть различные статьи на хабре и в иных медиа, как от лица тех, кто их проходил, так и от лица компании, например [https://habr.com/ru/company/epam\_systems/blog/336750/](https://habr.com/ru/company/epam\_systems/blog/336750/)
 * JetBrains - [https://www.jetbrains.com/ru-ru/careers/internships/](https://www.jetbrains.com/ru-ru/careers/internships/), считается одной из лучших ИТ компаний в РФ по уровню комфортности работы. Пост о попытке туда попасть [https://habr.com/ru/post/454354/](https://habr.com/ru/post/454354/), анонс от компании [https://habr.com/ru/company/JetBrains-education/blog/548334/](https://habr.com/ru/company/JetBrains-education/blog/548334/)
 
-Подборки стажировок для начинающих регулярно выкладываются на разных ИТ блогах и ресурсах, например [https://vc.ru/hr/293952-daydzhest-desyat-stazhirovok-dlya-studentov-i-dzhunov-chtoby-nachat-put-v-it](https://vc.ru/hr/293952-daydzhest-desyat-stazhirovok-dlya-studentov-i-dzhunov-chtoby-nachat-put-v-it)
+Подборки стажировок для начинающих регулярно выкладываются на разных ИТ блогах и ресурсах, например [https://vc.ru/hr/293952-daydzhest-desyat-stazhirovok-dlya-studentov-i-dzhunov-chtoby-nachat-put-v-it](https://vc.ru/hr/293952-daydzhest-desyat-stazhirovok-dlya-studentov-i-dzhunov-chtoby-nachat-put-v-it). Информация быстро устаревает, так что вам придется искать актуальные списки стажировок и требования для поступления самостоятельно.
 
-Стажировки как правило ориентированы на студентов, и потому чаще всего проходят летом, но бывают исключения.
+Стажировки, как правило, ориентированы на студентов, и потому чаще всего проходят летом, но бывают исключения.
 
 #### Первое трудоустройство
 
 Готовясь к первым собеседованиям, стоит выполнить следующие шаги:
 
 1. Посмотрите подборки типа "популярные вопросы к собеседованиям на <выбранный ЯП>".
-2. Порешайте простые алгоритмические задачи на том же Leetcode - на собеседовании вас могут попросить написать какой-то простой алгоритм.
+2. Порешайте простые алгоритмические задачи на [Leetcode ](https://leetcode.com)- на собеседовании вас могут попросить написать какой-то простой алгоритм.
 3. Хорошо, если у вас будут примеры кода. Сделайте публичный репозиторий на Github, в который выложите свой лучший код (например, демо-проект сделанный во время обучения). Оформите репозиторий как следует, на эту тему в интернете есть много советов, например [https://techrocks.ru/2020/05/13/make-your-github-profile-helpful-in-finding-job/](https://techrocks.ru/2020/05/13/make-your-github-profile-helpful-in-finding-job/) или [https://habr.com/ru/post/341166/](https://habr.com/ru/post/341166/)&#x20;
 4. Рассматривайте в первую очередь работу в офисе, а не удаленную. Почему так - объяснено в главе [smogu-li-ya-srazu-rabotat-udalenno.md](../../tipichnye-voprosy-i-mify-pro-it/smogu-li-ya-srazu-rabotat-udalenno.md "mention")
 
