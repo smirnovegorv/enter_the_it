@@ -26,6 +26,7 @@
   * [Почему многие компании не любят начинающих разработчиков?](s-chego-nachat/gde-iskat-stazhirovki-i-pervuyu-rabotu/pochemu-mnogie-kompanii-ne-lyubyat-nachinayushikh-razrabotchikov.md)
 * [Пошаговый план входа в ИТ через самообучение](s-chego-nachat/poshagovyi-plan-vkhoda-v-it-cherez-samoobuchenie.md)
 * [Путь в ИТ через ВУЗ, если вы еще школьник](s-chego-nachat/put-v-it-cherez-vuz-esli-vy-eshe-shkolnik.md)
+* [Карьерный путь в ИТ: junior, middle, senior](s-chego-nachat/karernyi-put-v-it-junior-middle-senior.md)
 
 ## Путь Enterprise Java разработчика
 
