@@ -4,7 +4,7 @@
 
 В Java-мире стандартом де-факто стали IDE от питерской конторы JetBrains - Intellij Idea. Две других популярных IDE - Eclipse и NetBeans - с годами только теряют популярность:
 
-![Статистика популярности Java IDE с сайта https://www.jrebel.com/blog/java-development-tools-usage-stats ](<../../.gitbook/assets/image (9).png>)
+![Статистика популярности Java IDE с сайта https://www.jrebel.com/blog/java-development-tools-usage-stats ](<../../.gitbook/assets/image (9) (1).png>)
 
 Поэтому я рекомендую не раздумывать, а сразу[ пойти и поставить Idea](https://www.jetbrains.com/ru-ru/idea/download/). У нее есть бесплатная Community версия, которой вполне хватает для обучения и начала работы.
 
