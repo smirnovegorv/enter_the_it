@@ -12,6 +12,7 @@
 3. [https://mkyong.com/tutorials/spring-boot-tutorials/](https://mkyong.com/tutorials/spring-boot-tutorials/) - тоже много статей и туториалов по Java.&#x20;
 4. JavaRush [https://javarush.ru/groups/general](https://javarush.ru/groups/general) - кроме курсов там есть и статьи и туториалы. Плюсы - написано на русском, код и пояснения, все красиво оформлено. Минусы - часто сильно устарело (особенно касается использования уже неактуальных возможностей того же Spring).
 5. Уже упоминалось в разделе [chto-uchit-iz-klassicheskoi-computer-science.md](../s-chego-nachat/chto-uchit-iz-klassicheskoi-computer-science.md "mention")[https://refactoring.guru/ru/design-patterns/](https://refactoring.guru/ru/design-patterns/) - хороший сайт со статьями по паттернам проектирования. Понимание паттернов позволит пореже изобретать велосипеды в архитектуре вашего ПО.
+6. [Stackoverflow](https://stackoverflow.com). Самый нужный сайт для любого программиста. Огромная база вопросов и ответов. В ней столько всего, что уже есть шутки про "stackoverflow-driven-development", мол, программисты нифига уже не умеют сами писать код, просто заходят на Stackoverflow, ищут нужный кусок кода там и вставляют в свою программу.
 
 Если в поисковой выдаче в ответ на ваш вопрос вы видите ссылку на mkyong или baeldung - там вы скорее всего найдете хороший ответ на вопрос, рекомендую такие ссылки просматривать в первую очередь.
 
