@@ -6,7 +6,7 @@
 
 ![Статистика популярности Java IDE с сайта https://www.jrebel.com/blog/java-development-tools-usage-stats ](<../../.gitbook/assets/image (9) (1).png>)
 
-Поэтому я рекомендую не раздумывать, а сразу[ пойти и поставить Idea](https://www.jetbrains.com/ru-ru/idea/download/). У нее есть бесплатная Community версия, которой вполне хватает для обучения и начала работы.
+Поэтому я рекомендую не раздумывать, а сразу[ пойти и поставить Idea](https://www.jetbrains.com/ru-ru/idea/download/). У нее есть бесплатная Community версия, которой вполне хватает для обучения и начала работы. А если вы студент университета или разрабатываете open-source проект, то вы можете бесплатно получить и полную Ultimate версию.
 
 Обзор возможностей можно изучить на странице [https://www.jetbrains.com/ru-ru/idea/features/](https://www.jetbrains.com/ru-ru/idea/features/)
 
