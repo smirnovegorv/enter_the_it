@@ -51,5 +51,5 @@
   * [Работа с БД через Hibernate](put-enterprise-java-razrabotchika/spring-boot/rabota-s-bd-cherez-hibernate.md)
   * [Зачем так сложно?!](put-enterprise-java-razrabotchika/spring-boot/zachem-tak-slozhno.md)
 * [Пример тестового задания](put-enterprise-java-razrabotchika/primer-testovogo-zadaniya.md)
-* [Несколько советов по поиску первой работы](put-enterprise-java-razrabotchika/neskolko-sovetov-po-poisku-pervoi-raboty.md)
+* [Качество программного кода](put-enterprise-java-razrabotchika/kachestvo-programmnogo-koda.md)
 * [Что еще скорее всего спросят на собеседовании](put-enterprise-java-razrabotchika/chto-eshe-skoree-vsego-sprosyat-na-sobesedovanii.md)
