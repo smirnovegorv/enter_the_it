@@ -2,7 +2,7 @@
 
 ## Введение
 
-* [Как же наконец "войти в АйТи"](README.md)
+* [Войти в АйТи](README.md)
 * [Немного об авторе](vvedenie/nemnogo-ob-avtore.md)
 * [Термины и сокращения](vvedenie/terminy-i-sokrasheniya.md)
 
